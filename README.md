@@ -6,4 +6,4 @@ Install setuptools and gpu version of pytorch, clone or download repository.
 git clone https://github.com/jiayisong/cv_ops.git
 cd cv_ops
 python3 setup.py install
-'''
+```
